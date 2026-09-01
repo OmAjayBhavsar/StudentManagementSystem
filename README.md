@@ -1,10 +1,10 @@
-Student Management System
+# Student Management System
 
 A simple console-based Student Management System developed in Java for managing student records.
 
 The project was created to practice Java fundamentals, object-oriented programming, CRUD operations, collections, and file handling.
 
-Features
+## Features
 
 - Add new students
 - View all students
@@ -14,7 +14,7 @@ Features
 - Store student data using file handling
 - Load previously stored student data when the application starts
 
-Technologies & Concepts
+## Technologies & Concepts
 
 - Java
 - Object-Oriented Programming (OOP)
@@ -23,9 +23,9 @@ Technologies & Concepts
 - CRUD Operations
 - Console-based User Interface
 
-Project Structure
+## Project Structure
 
-text
+```text
 StudentManagementSystem/
 ├── src/
 │   ├── Main.java
